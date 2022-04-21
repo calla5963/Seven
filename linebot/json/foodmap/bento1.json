@@ -1,0 +1,1605 @@
+{
+    "type": "carousel",
+    "contents": [
+        {
+            "type": "bubble",
+            "header": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "吉川屋-",
+                  "size": "lg",
+                  "weight": "bold"
+                }
+              ]
+            },
+            "hero": {
+              "type": "image",
+              "url": "https://lh5.googleusercontent.com/p/AF1QipMgGftAW9ms1T1nmoYX2pxbInIzM1ChH8nXaym-=w203-h114-k-no",
+              "size": "full",
+              "aspectRatio": "25:13",
+              "aspectMode": "cover"
+            },
+            "body": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "評價",
+                  "size": "md",
+                  "weight": "bold"
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://cdn-icons-png.flaticon.com/512/3039/3039564.png",
+                      "size": "xl"
+                    },
+                    {
+                      "type": "text",
+                      "text": "193",
+                      "flex": 0,
+                      "size": "sm"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md",
+                      "margin": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "margin": "none",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://cdn-icons-png.flaticon.com/512/2107/2107737.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "text",
+                      "text": "4.4", 
+                      "flex": 0,
+                      "margin": "md",
+                      "size": "sm"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "營業地址:",
+                          "flex": 2,
+                          "size": "md"
+                        },
+                        {
+                          "type": "text",
+                          "text": "豐榮路212號",
+                          "flex": 5,
+                          "size": "md"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "separator"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "營業時間:",
+                          "flex": 2,
+                          "size": "md"
+                        },
+                        {
+                          "type": "text",
+                          "text": "11:00–14:00 17:00–20:00",
+                          "flex": 5,
+                          "size": "md",
+                          "color": "#666666",
+                          "wrap": true
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "horizontal",
+                      "contents": [
+                        {
+                          "type": "button",
+                          "action": {
+                            "type": "uri",
+                            "label": "電話聯絡",
+                            "uri": "tel:089355433"
+                          },
+                          "style": "primary",
+                          "margin": "sm"
+                        },
+                        {
+                          "type": "button",
+                          "action": {
+                            "type": "uri",
+                            "label": "開啟地圖",
+                            "uri": "https://liff.line.me/1657024127-QEeK9Eab"
+                          },
+                          "style": "secondary",
+                          "margin": "sm"
+                        }
+                      ],
+                      "margin": "xxl"
+                    }
+                  ],
+                  "margin": "lg"
+                }
+              ]
+            }
+          },
+          {
+            "type": "bubble",
+            "header": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "新池便當店",
+                  "size": "lg",
+                  "weight": "bold"
+                }
+              ]
+            },
+            "hero": {
+              "type": "image",
+              "url": "https://lh5.googleusercontent.com/p/AF1QipNG3jUc8Yuz5tWS2Ya_BLVBbSrKUeNJ7B-UJ8kS=w408-h306-k-no",
+              "size": "full",
+              "aspectRatio": "25:13",
+              "aspectMode": "cover"
+            },
+            "body": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "評價",
+                  "size": "md",
+                  "weight": "bold"
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://cdn-icons-png.flaticon.com/512/3039/3039564.png",
+                      "size": "xl"
+                    },
+                    {
+                      "type": "text",
+                      "text": "30",
+                      "flex": 0,
+                      "size": "sm"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md",
+                      "margin": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "margin": "none",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url":  "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png",
+                        
+                      "size": "md"
+                    },
+                    {
+                      "type": "text",
+                      "text": "4.0",
+                      "flex": 0,
+                      "margin": "md",
+                      "size": "sm"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "營業地址:",
+                          "flex": 2,
+                          "size": "md"
+                        },
+                        {
+                          "type": "text",
+                          "text": "仁和街34號", 
+                          "flex": 5,
+                          "size": "md"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "separator"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "營業時間:",
+                          "flex": 2,
+                          "size": "md"
+                        },
+                        {
+                          "type": "text",
+                          "text": "10:45–13:30 16:30–19:30", 
+                          "flex": 5,
+                          "size": "md",
+                          "color": "#666666",
+                          "wrap": true
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "horizontal",
+                      "contents": [
+                        {
+                          "type": "button",
+                          "action": {
+                            "type": "uri",
+                            "label": "電話聯絡",
+                            "uri": "tel:089339856"
+                          },
+                          "style": "primary",
+                          "margin": "sm"
+                        },
+                        {
+                          "type": "button",
+                          "action": {
+                            "type": "uri",
+                            "label": "開啟地圖",
+                            "uri": "https://liff.line.me/1657024127-wmazXqEj"
+                          },
+                          "style": "secondary",
+                          "margin": "sm"
+                        }
+                      ],
+                      "margin": "xxl"
+                    }
+                  ],
+                  "margin": "lg"
+                }
+              ]
+            }
+          },
+          {
+            "type": "bubble",
+            "header": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "小亨利快餐便當",
+                  "size": "lg",
+                  "weight": "bold"
+                }
+              ]
+            },
+            "hero": {
+              "type": "image",
+              "url": "https://lh5.googleusercontent.com/p/AF1QipMXmzpQ5_EEdb0qs_rDYnifxgLWwemVkz2axznR=w408-h306-k-no",
+              "size": "full",
+              "aspectRatio": "25:13",
+              "aspectMode": "cover"
+            },
+            "body": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "評價",
+                  "size": "md",
+                  "weight": "bold"
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://cdn-icons-png.flaticon.com/512/3039/3039564.png",
+                      "size": "xl"
+                    },
+                    {
+                      "type": "text",
+                      "text": "129",
+                      "flex": 0,
+                      "size": "sm"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md",
+                      "margin": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "margin": "none",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url":  "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png",
+                        
+                      "size": "md"
+                    },
+                    {
+                      "type": "text",
+                      "text": "4.0", 
+                      "flex": 0,
+                      "margin": "md",
+                      "size": "sm"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "營業地址:",
+                          "flex": 2,
+                          "size": "md"
+                        },
+                        {
+                          "type": "text",
+                          "text": "正氣路491號", 
+                          "flex": 5,
+                          "size": "md"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "separator"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "營業時間:",
+                          "flex": 2,
+                          "size": "md"
+                        },
+                        {
+                          "type": "text",
+                          "text": "10:00 - 21:00",
+                          "flex": 5,
+                          "size": "md",
+                          "color": "#666666"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "horizontal",
+                      "contents": [
+                        {
+                          "type": "button",
+                          "action": {
+                            "type": "uri",
+                            "label": "電話聯絡",
+                            "uri": "tel:089310331"
+                          },
+                          "style": "primary",
+                          "margin": "sm"
+                        },
+                        {
+                          "type": "button",
+                          "action": {
+                            "type": "uri",
+                            "label": "開啟地圖",
+                            "uri": "https://liff.line.me/1657024127-AaQ63wvg"
+                          },
+                          "style": "secondary",
+                          "margin": "sm"
+                        }
+                      ],
+                      "margin": "xxl"
+                    }
+                  ],
+                  "margin": "lg"
+                }
+              ]
+            }
+          },
+          {
+            "type": "bubble",
+            "header": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "愛新便當",
+                  "size": "lg",
+                  "weight": "bold"
+                }
+              ]
+            },
+            "hero": {
+              "type": "image",
+              "url": "https://lh5.googleusercontent.com/p/AF1QipMnrjQWrvf2BzoSqpf0jk-rnITfORj6LGa9q8jp=w408-h306-k-no",
+              "size": "full",
+              "aspectRatio": "25:13",
+              "aspectMode": "cover"
+            },
+            "body": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "評價",
+                  "size": "md",
+                  "weight": "bold"
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://cdn-icons-png.flaticon.com/512/3039/3039564.png",
+                      "size": "xl"
+                    },
+                    {
+                      "type": "text",
+                      "text": "100", 
+                      "flex": 0,
+                      "size": "sm"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md",
+                      "margin": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "margin": "none",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://cdn-icons-png.flaticon.com/512/2107/2107737.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "text",
+                      "text": "4.2", 
+                      "flex": 0,
+                      "margin": "md",
+                      "size": "sm"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "營業地址:",
+                          "flex": 2,
+                          "size": "md"
+                        },
+                        {
+                          "type": "text",
+                          "text": "中華路二段16號",
+                          "flex": 5,
+                          "size": "md"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "separator"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "營業時間:",
+                          "flex": 2,
+                          "size": "md"
+                        },
+                        {
+                          "type": "text",
+                          "text": "11:00 - 19:30", 
+                          "flex": 5,
+                          "size": "md",
+                          "color": "#666666"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "horizontal",
+                      "contents": [
+                        {
+                          "type": "button",
+                          "action": {
+                            "type": "uri",
+                            "label": "電話聯絡",
+                            "uri": "tel:089327080"
+                          },
+                          "style": "primary",
+                          "margin": "sm"
+                        },
+                        {
+                          "type": "button",
+                          "action": {
+                            "type": "uri",
+                            "label": "開啟地圖",
+                            "uri": "https://liff.line.me/1657024127-greEvyrb"
+                          },
+                          "style": "secondary",
+                          "margin": "sm"
+                        }
+                      ],
+                      "margin": "xxl"
+                    }
+                  ],
+                  "margin": "lg"
+                }
+              ]
+            }
+          },
+          {
+            "type": "bubble",
+            "header": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "𡘙師傅便當專賣店-中華店",
+                  "size": "lg",
+                  "weight": "bold"
+                }
+              ]
+            },
+            "hero": {
+              "type": "image",
+              "url": "https://lh5.googleusercontent.com/p/AF1QipPyWETHcP-aGRYhfItGF3xAALwqDdSCu5jKJux8=w408-h304-k-no",
+              "size": "full",
+              "aspectRatio": "25:13",
+              "aspectMode": "cover"
+            },
+            "body": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "評價",
+                  "size": "md",
+                  "weight": "bold"
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://cdn-icons-png.flaticon.com/512/3039/3039564.png",
+                      "size": "xl"
+                    },
+                    {
+                      "type": "text",
+                      "text": "275",
+                      "flex": 0,
+                      "size": "sm"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md",
+                      "margin": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "margin": "none",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png",
+                        
+                      "size": "md"
+                    },
+                    {
+                      "type": "text",
+                      "text": "4.0",
+                      "flex": 0,
+                      "margin": "md",
+                      "size": "sm"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "營業地址:",
+                          "flex": 2,
+                          "size": "md"
+                        },
+                        {
+                          "type": "text",
+                          "text": "中華路二段156號",
+                          "flex": 5,
+                          "size": "md"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "separator"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "營業時間:",
+                          "flex": 2,
+                          "size": "md"
+                        },
+                        {
+                          "type": "text",
+                          "text": "10:00 - 20:00", 
+                          "flex": 5,
+                          "size": "md",
+                          "color": "#666666"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "horizontal",
+                      "contents": [
+                        {
+                          "type": "button",
+                          "action": {
+                            "type": "uri",
+                            "label": "電話聯絡",
+                            "uri": "tel:089359922"
+                          },
+                          "style": "primary",
+                          "margin": "sm"
+                        },
+                        {
+                          "type": "button",
+                          "action": {
+                            "type": "uri",
+                            "label": "開啟地圖",
+                            "uri": "https://liff.line.me/1657024127-DWRd2Oy6"
+                          },
+                          "style": "secondary",
+                          "margin": "sm"
+                        }
+                      ],
+                      "margin": "xxl"
+                    }
+                  ],
+                  "margin": "lg"
+                }
+              ]
+            }
+          },
+          {
+            "type": "bubble",
+            "header": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "佳佳快餐便當",
+                  "size": "lg",
+                  "weight": "bold"
+                }
+              ]
+            },
+            "hero": {
+              "type": "image",
+              "url": "https://lh5.googleusercontent.com/p/AF1QipMDhPf72XcfwFy8pqoMSDQgGcV9bLE3b7JnVP3C=w426-h240-k-no",
+              "size": "full",
+              "aspectRatio": "25:13",
+              "aspectMode": "cover"
+            },
+            "body": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "評價",
+                  "size": "md",
+                  "weight": "bold"
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://cdn-icons-png.flaticon.com/512/3039/3039564.png",
+                      "size": "xl"
+                    },
+                    {
+                      "type": "text",
+                      "text": "159",
+                      "flex": 0,
+                      "size": "sm"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md",
+                      "margin": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "margin": "none",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://cdn-icons-png.flaticon.com/512/2107/2107737.png" ,
+                      "size": "md"
+                    },
+                    {
+                      "type": "text",
+                      "text": "4.3",
+                      "flex": 0,
+                      "margin": "md",
+                      "size": "sm"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "營業地址:",
+                          "flex": 2,
+                          "size": "md"
+                        },
+                        {
+                          "type": "text",
+                          "text": "中華路一段331號",
+                          "flex": 5,
+                          "size": "md"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "separator"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "營業時間:",
+                          "flex": 2,
+                          "size": "md"
+                        },
+                        {
+                          "type": "text",
+                          "text": "10:30–14:00 16:30–19:30", 
+                          "flex": 5,
+                          "size": "md",
+                          "color": "#666666",
+                          "wrap": true
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "horizontal",
+                      "contents": [
+                        {
+                          "type": "button",
+                          "action": {
+                            "type": "uri",
+                            "label": "電話聯絡",
+                            "uri": "tel:089330478"
+                          },
+                          "style": "primary",
+                          "margin": "sm"
+                        },
+                        {
+                          "type": "button",
+                          "action": {
+                            "type": "uri",
+                            "label": "開啟地圖",
+                            "uri": "https://liff.line.me/1657024127-JlAEwK5d"
+                          },
+                          "style": "secondary",
+                          "margin": "sm"
+                        }
+                      ],
+                      "margin": "xxl"
+                    }
+                  ],
+                  "margin": "lg"
+                }
+              ]
+            }
+          },
+          {
+            "type": "bubble",
+            "header": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "全鼎燒臘店",
+                  "size": "lg",
+                  "weight": "bold"
+                }
+              ]
+            },
+            "hero": {
+              "type": "image",
+              "url": "https://lh5.googleusercontent.com/p/AF1QipMj5vAVXhQ4Y3WoF_w-74kvwAkxzNWHBM91Ke4=w408-h544-k-no",
+              "size": "full",
+              "aspectRatio": "25:13",
+              "aspectMode": "cover"
+            },
+            "body": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "評價",
+                  "size": "md",
+                  "weight": "bold"
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://cdn-icons-png.flaticon.com/512/3039/3039564.png",
+                      "size": "xl"
+                    },
+                    {
+                      "type": "text",
+                      "text": "45", 
+                      "flex": 0,
+                      "size": "sm"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md",
+                      "margin": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "margin": "none",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://cdn-icons-png.flaticon.com/512/2107/2107737.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "text",
+                      "text": "4.3", 
+                      "flex": 0,
+                      "margin": "md",
+                      "size": "sm"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "營業地址:",
+                          "flex": 2,
+                          "size": "md"
+                        },
+                        {
+                          "type": "text",
+                          "text": "中華路一段629號",
+                          "flex": 5,
+                          "size": "md"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "separator"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "營業時間:",
+                          "flex": 2,
+                          "size": "md"
+                        },
+                        {
+                          "type": "text",
+                          "text": "10:30–13:30 16:30–19:00", 
+                          "flex": 5,
+                          "size": "md",
+                          "color": "#666666",
+                          "wrap": true
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "horizontal",
+                      "contents": [
+                        {
+                          "type": "button",
+                          "action": {
+                            "type": "uri",
+                            "label": "電話聯絡",
+                            "uri": "tel:089310050"
+                          },
+                          "style": "primary",
+                          "margin": "sm"
+                        },
+                        {
+                          "type": "button",
+                          "action": {
+                            "type": "uri",
+                            "label": "開啟地圖",
+                            "uri": "https://liff.line.me/1657024127-RDkP7vNZ"
+                          },
+                          "style": "secondary",
+                          "margin": "sm"
+                        }
+                      ],
+                      "margin": "xxl"
+                    }
+                  ],
+                  "margin": "lg"
+                }
+              ]
+            }
+          },
+          {
+            "type": "bubble",
+            "header": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "台東新生便當",
+                  "size": "lg",
+                  "weight": "bold"
+                }
+              ]
+            },
+            "hero": {
+              "type": "image",
+              "url": "https://lh5.googleusercontent.com/p/AF1QipO-0JVyqP0GUfW6D8z3zhFZSWresN7tJ_7c0TrI=w426-h240-k-no",
+              "size": "full",
+              "aspectRatio": "25:13",
+              "aspectMode": "cover"
+            },
+            "body": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "評價",
+                  "size": "md",
+                  "weight": "bold"
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://cdn-icons-png.flaticon.com/512/3039/3039564.png",
+                      "size": "xl"
+                    },
+                    {
+                      "type": "text",
+                      "text": "189", 
+                      "flex": 0,
+                      "size": "sm"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md",
+                      "margin": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "margin": "none",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://cdn-icons-png.flaticon.com/512/2107/2107737.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "text",
+                      "text": "4.1", 
+                      "flex": 0,
+                      "margin": "md",
+                      "size": "sm"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "營業地址:",
+                          "flex": 2,
+                          "size": "md"
+                        },
+                        {
+                          "type": "text",
+                          "text": "更生路481號", 
+                          "flex": 5,
+                          "size": "md"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "separator"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "營業時間:",
+                          "flex": 2,
+                          "size": "md"
+                        },
+                        {
+                          "type": "text",
+                          "text": "11:00–14:00、17:00–20:00", 
+                          "flex": 5,
+                          "size": "md",
+                          "color": "#666666",
+                          "wrap": true
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "horizontal",
+                      "contents": [
+                        {
+                          "type": "button",
+                          "action": {
+                            "type": "uri",
+                            "label": "電話聯絡",
+                            "uri": "tel:089320000"
+                          },
+                          "style": "primary",
+                          "margin": "sm"
+                        },
+                        {
+                          "type": "button",
+                          "action": {
+                            "type": "uri",
+                            "label": "開啟地圖",
+                            "uri": "https://liff.line.me/1657024127-qAOb0D2Y"
+                          },
+                          "style": "secondary",
+                          "margin": "sm"
+                        }
+                      ],
+                      "margin": "xxl"
+                    }
+                  ],
+                  "margin": "lg"
+                }
+              ]
+            }
+          },
+          {
+            "type": "bubble",
+            "header": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "東之園草袋飯便當",
+                  "size": "lg",
+                  "weight": "bold"
+                }
+              ]
+            },
+            "hero": {
+              "type": "image",
+              "url": "https://lh5.googleusercontent.com/p/AF1QipOhhTR5eRO3cIcqAy_lQsYbEQkMCikxZo565-Tt=w408-h306-k-no",
+              "size": "full",
+              "aspectRatio": "25:13",
+              "aspectMode": "cover"
+            },
+            "body": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "評價",
+                  "size": "md",
+                  "weight": "bold"
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://cdn-icons-png.flaticon.com/512/3039/3039564.png",
+                      "size": "xl"
+                    },
+                    {
+                      "type": "text",
+                      "text": "226", 
+                      "flex": 0,
+                      "size": "sm"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md",
+                      "margin": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "margin": "none",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://cdn-icons-png.flaticon.com/512/2107/2107737.png" ,
+                      "size": "md"
+                    },
+                    {
+                      "type": "text",
+                      "text": "4.2", 
+                      "flex": 0,
+                      "margin": "md",
+                      "size": "sm"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "營業地址:",
+                          "flex": 2,
+                          "size": "md"
+                        },
+                        {
+                          "type": "text",
+                          "text": "傳廣路501號", 
+                          "flex": 5,
+                          "size": "md"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "separator"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "營業時間:",
+                          "flex": 2,
+                          "size": "md"
+                        },
+                        {
+                          "type": "text",
+                          "text": "10:30–13:30 17:00–19:00",
+                          "flex": 5,
+                          "size": "md",
+                          "color": "#666666",
+                          "wrap": true
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "horizontal",
+                      "contents": [
+                        {
+                          "type": "button",
+                          "action": {
+                            "type": "uri",
+                            "label": "電話聯絡",
+                            "uri": "tel:089221223"
+                          },
+                          "style": "primary",
+                          "margin": "sm"
+                        },
+                        {
+                          "type": "button",
+                          "action": {
+                            "type": "uri",
+                            "label": "開啟地圖",
+                            "uri": "https://liff.line.me/1657024127-nw5gMjXN"
+                          },
+                          "style": "secondary",
+                          "margin": "sm"
+                        }
+                      ],
+                      "margin": "xxl"
+                    }
+                  ],
+                  "margin": "lg"
+                }
+              ]
+            }
+          },
+          {
+            "type": "bubble",
+            "header": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "珍口味自助餐/便當（東商店）",
+                  "size": "lg",
+                  "weight": "bold"
+                }
+              ]
+            },
+            "hero": {
+              "type": "image",
+              "url": "https://lh5.googleusercontent.com/p/AF1QipPFnZUp4zI-FY47c80qJ7mVta05zFtwS1TTRtFE=w408-h544-k-no", 
+              "size": "full",
+              "aspectRatio": "25:13",
+              "aspectMode": "cover"
+            },
+            "body": {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "評價",
+                  "size": "md",
+                  "weight": "bold"
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://cdn-icons-png.flaticon.com/512/3039/3039564.png",
+                      "size": "xl"
+                    },
+                    {
+                      "type": "text",
+                      "text": "252", 
+                      "flex": 0,
+                      "size": "sm"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md",
+                      "margin": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "margin": "none",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://cdn-icons-png.flaticon.com/512/2107/2107737.png",
+                      "size": "md"
+                    },
+                    {
+                      "type": "text",
+                      "text": "4.5", 
+                      "flex": 0,
+                      "margin": "md",
+                      "size": "sm"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "營業地址:",
+                          "flex": 2,
+                          "size": "md"
+                        },
+                        {
+                          "type": "text",
+                          "text": "正氣路473號",
+                          "flex": 5,
+                          "size": "md"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "separator"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "營業時間:",
+                          "flex": 2,
+                          "size": "md"
+                        },
+                        {
+                          "type": "text",
+                          "text": "10:00–13:30 16:00–19:30", 
+                          "flex": 5,
+                          "size": "md",
+                          "color": "#666666",
+                          "wrap": true
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "horizontal",
+                      "contents": [
+                        {
+                          "type": "button",
+                          "action": {
+                            "type": "uri",
+                            "label": "電話聯絡",
+                            "uri": "tel:089332789" 
+                          },
+                          "style": "primary",
+                          "margin": "sm"
+                        },
+                        {
+                          "type": "button",
+                          "action": {
+                            "type": "uri",
+                            "label": "開啟地圖",
+                            "uri": "https://liff.line.me/1657024127-wxqOyk03" 
+                          },
+                          "style": "secondary",
+                          "margin": "sm"
+                        }
+                      ],
+                      "margin": "xxl"
+                    }
+                  ],
+                  "margin": "lg"
+                }
+              ]
+            }
+          }
+    ]
+  }

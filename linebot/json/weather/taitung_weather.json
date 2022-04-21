@@ -1,0 +1,50 @@
+{
+   "type": "bubble",
+   "hero": {
+      "type": "image",
+      "url": "https://burst.shopifycdn.com/photos/sun-setting-over-ocean.jpg?width=925&format=pjpg&exif=1&iptc=1",
+      "size": "full",
+      "aspectRatio": "20:13",
+      "aspectMode": "cover"
+   },
+   "body": {
+      "type": "box",
+      "layout": "vertical",
+      "backgroundColor": "#FFFFFFF4",
+      "contents": [
+         {
+            "type": "text",
+            "text": "天氣小天使",
+            "weight": "bold",
+            "size": "lg",
+            "color": "#000000FF",
+            "align": "center",
+            "contents": []
+         },
+         {
+            "type": "text",
+            "text": "早晚較涼，大致陰天，僅局部地區短暫雨，沿海風強浪大並留意長浪",
+            "color": "#000000FF",
+            "margin": "md",
+            "wrap": true,
+            "contents": []
+         },
+         {
+            "type": "text",
+            "text": "今天(17)日東北季風影響，早晚較涼，請注意添加衣物，預估深夜各鄉鎮市低溫18-21度，預估各鄉鎮市高溫21-26度；大致為陰天，僅大武、達仁、綠島及蘭嶼鄉有些局部短暫雨。",
+            "color": "#000000FF",
+            "margin": "md",
+            "wrap": true,
+            "contents": []
+         },
+         {
+            "type": "text",
+            "text": "東北風偏強，沿海空曠地區(含蘭嶼、綠島)易有8至9級強陣風；沿海(含蘭嶼、綠島)易有長浪發生，海邊活動請注意安全。",
+            "color": "#000000FF",
+            "margin": "md",
+            "wrap": true,
+            "contents": []
+         }
+      ]
+   }
+}
